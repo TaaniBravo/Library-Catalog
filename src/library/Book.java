@@ -1,4 +1,4 @@
-package librarycatalog;
+package library;
 
 public class Book {
     // Properties, Fields, Global Variables
